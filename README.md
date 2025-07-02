@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi!<br>I'm Canberk, Backend Developer from Izmir, Turkey.<br>
+<br>I'm currently developing applications with Spring Boot.<br>
 
 
 ## 🌐 Socials:
